@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hugo%20Chac%C3%B3n&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineering%20%C2%B7%20Data%20%26%20Machine%20Learning&descSize=16&descAlignY=58" alt="Hugo Chacón" width="100%" />
+<img src="banner.svg" alt="Hugo Chacón — Computer Engineering · Data &amp; Machine Learning" width="100%" />
 
-**Computer Engineering student at UNAM** · Mexico City 🇲🇽
+**Computer Engineering student at UNAM** · Mexico City
 
 </div>
 
@@ -26,18 +26,14 @@ I'm a 7th-semester Computer Engineering student at the **Faculty of Engineering,
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cpp,js,html,css&perline=8" alt="Languages and ML" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,opengl,linux&perline=8" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=8" alt="Tools" />
 </p>
 
-**Data & ML:** pandas · NumPy · scikit-learn · PyTorch · Matplotlib · Seaborn · Google Colab
-**Databases:** SQL Server (T-SQL) · relational modeling
-**Other:** C / C++ · OpenGL · VHDL · JavaScript · HTML / CSS
+- **Data & ML:** pandas · NumPy · scikit-learn · PyTorch · Matplotlib · Seaborn · Google Colab
+- **Databases:** SQL Server (T-SQL) · relational modeling
+- **Other:** C / C++ · OpenGL · VHDL · JavaScript · HTML / CSS
 
 ## 🎓 Education
 
-**B.Eng. in Computer Engineering** — Faculty of Engineering, UNAM *(in progress)*
-Machine Learning course — SIAFI, Faculty of Engineering, UNAM
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
-</div>
+- **B.Eng. in Computer Engineering** — Faculty of Engineering, UNAM *(in progress)*
+- **Machine Learning course** — SIAFI, Faculty of Engineering, UNAM
