@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hugo12341234/hugo12341234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hugo%20Chac%C3%B3n&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineering%20%C2%B7%20Data%20%26%20Machine%20Learning&descSize=16&descAlignY=58" alt="Hugo Chacón" width="100%" />
 
-Here are some ideas to get you started:
+**Computer Engineering student at UNAM** · Mexico City 🇲🇽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 👋 About me
+
+I'm a 7th-semester Computer Engineering student at the **Faculty of Engineering, UNAM**. I'm interested in using **data, math and machine learning** to solve real problems, especially in **finance** and **data analysis**.
+
+- 🤖 Building machine learning projects with Python, scikit-learn and PyTorch
+- 🗄️ Designing relational databases with SQL Server
+- 📈 Looking for internship opportunities in **data analysis, finance and analytics**
+- 🧩 Also working on computer graphics (OpenGL) and digital design (VHDL)
+
+## 🚀 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Machine Learning Projects**](https://github.com/hugo12341234/machine-learning-projects) | Car price regression (R² 0.75), spam classifier (98.9% precision) and Fashion-MNIST image classifier | Python · scikit-learn · PyTorch |
+| [**Insurance Management System**](https://github.com/hugo12341234/Insurance-Management-System-SQL) | Relational database for an insurance company with triggers, stored procedures, role-based security and reports | SQL Server · T-SQL |
+
+## 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cpp,js,html,css&perline=8" alt="Languages and ML" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,opengl,linux&perline=8" alt="Tools" />
+</p>
+
+**Data & ML:** pandas · NumPy · scikit-learn · PyTorch · Matplotlib · Seaborn · Google Colab
+**Databases:** SQL Server (T-SQL) · relational modeling
+**Other:** C / C++ · OpenGL · VHDL · JavaScript · HTML / CSS
+
+## 🎓 Education
+
+**B.Eng. in Computer Engineering** — Faculty of Engineering, UNAM *(in progress)*
+Machine Learning course — SIAFI, Faculty of Engineering, UNAM
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
+</div>
