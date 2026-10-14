@@ -4,6 +4,8 @@
 
 **Computer Engineering student at UNAM** · Mexico City
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Chac%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-emmanuel-chac%C3%B3n-jaral-b69916300/)
+
 </div>
 
 ## 👋 About me
@@ -37,3 +39,7 @@ I'm a 7th-semester Computer Engineering student at the **Faculty of Engineering,
 
 - **B.Eng. in Computer Engineering** — Faculty of Engineering, UNAM *(in progress)*
 - **Machine Learning course** — SIAFI, Faculty of Engineering, UNAM
+
+## 📫 Contact
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/hugo-emmanuel-chac%C3%B3n-jaral-b69916300/).
